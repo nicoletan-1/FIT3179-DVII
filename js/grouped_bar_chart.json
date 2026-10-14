@@ -9,7 +9,7 @@
   "width": 700,
   "height": 400,
   "data": {
-    "url": "data/table7_grouped_growth.csv"
+    "url": "https://raw.githubusercontent.com/nicoletan-1/FIT3179-DVII/refs/heads/main/data/table7_grouped_growth.csv"
   },
   "mark": "bar",
   "encoding": {
