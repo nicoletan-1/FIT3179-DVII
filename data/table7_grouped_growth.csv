@@ -1,0 +1,30 @@
+state,industry,growth
+New South Wales,Cropping,1.3
+New South Wales,Mixed,0.7
+New South Wales,Sheep,-0.4
+New South Wales,Beef,0.3
+New South Wales,Sheep-Beef,-0.2
+Victoria,Cropping,1.9
+Victoria,Mixed,1.3
+Victoria,Sheep,0.1
+Victoria,Beef,0.6
+Victoria,Sheep-Beef,0.6
+Queensland,Cropping,1.2
+Queensland,Mixed,0.9
+Queensland,Sheep,0.4
+Queensland,Beef,0.6
+Queensland,Sheep-Beef,0.0
+South Australia,Cropping,2.0
+South Australia,Mixed,0.7
+South Australia,Sheep,0.3
+South Australia,Beef,0.6
+South Australia,Sheep-Beef,0.4
+Western Australia,Cropping,1.5
+Western Australia,Mixed,1.0
+Western Australia,Sheep,2.6
+Western Australia,Beef,0.4
+Western Australia,Sheep-Beef,2.9
+Tasmania,Sheep,0.0
+Tasmania,Beef,0.8
+Tasmania,Sheep-Beef,0.3
+Northern Territory,Beef,1.5

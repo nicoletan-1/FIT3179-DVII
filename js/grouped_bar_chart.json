@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Broadacre Productivity Growth Rates by Industry and State (1977–78 to 2024–25)",
+    "fontSize": 14,
+    "fontWeight": "bold",
+    "offset": 15
+  },
+  "width": 700,
+  "height": 400,
+  "data": {
+    "url": "data/table7_grouped_growth.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "state",
+      "type": "nominal",
+      "title": "State",
+      "axis": {
+        "labelAngle": 0,
+        "labelFontSize": 11,
+        "titlePadding": 10
+      }
+    },
+    "xOffset": {
+      "field": "industry",
+      "type": "nominal"
+    },
+    "y": {
+      "field": "growth",
+      "type": "quantitative",
+      "title": "Annual Productivity Growth Rate (%)",
+      "axis": {
+        "format": ".1f",
+        "gridColor": "#eeeeee"
+      }
+    },
+    "color": {
+      "field": "industry",
+      "type": "nominal",
+      "title": "Industry Sector",
+      "scale": {
+        "scheme": "category10"
+      }
+    },
+    "tooltip": [
+      {"field": "state", "type": "nominal", "title": "State"},
+      {"field": "industry", "type": "nominal", "title": "Industry"},
+      {"field": "growth", "type": "quantitative", "title": "Growth Rate (%)", "format": ".1f"}
+    ]
+  }
+}
