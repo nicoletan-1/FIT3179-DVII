@@ -1,7 +1,7 @@
-var vg_grouped = "js/grouped_bar_chart.json";
+// Embed Choropleth Map
+vegaEmbed("#choropleth_map", "js/choropleth_map.json", { actions: true })
+  .catch(console.error);
 
-vegaEmbed("#grouped_bar_chart", vg_grouped, { actions: true })
-  .then(function(result) {
-    console.log("Grouped bar chart successfully loaded!");
-  })
+// Embed Grouped Bar Chart
+vegaEmbed("#grouped_bar_chart", "js/grouped_bar_chart.json", { actions: true })
   .catch(console.error);

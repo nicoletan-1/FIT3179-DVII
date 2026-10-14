@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Australian Broadacre Total Factor Productivity Index by State",
+    "fontSize": 15,
+    "fontWeight": "bold",
+    "offset": 12
+  },
+  "width": 700,
+  "height": 500,
+  "projection": {
+    "type": "albers",
+    "rotate": [-134, 0, 0],
+    "parallel": [-18, -36]
+  },
+  "params": [
+    {
+      "name": "Year_Select",
+      "value": "2024-25",
+      "bind": {
+        "input": "select",
+        "options": [
+          "1977-78", "1978-79", "1979-80", "1980-81", "1981-82", "1982-83", "1983-84", "1984-85", "1985-86", "1986-87",
+          "1987-88", "1988-89", "1989-90", "1990-91", "1991-92", "1992-93", "1993-94", "1994-95", "1995-96", "1996-97",
+          "1997-98", "1998-99", "1999-00", "2000-01", "2001-02", "2002-03", "2003-04", "2004-05", "2005-06", "2006-07",
+          "2007-08", "2008-09", "2009-10", "2010-11", "2011-12", "2012-13", "2013-14", "2014-15", "2015-16", "2016-17",
+          "2017-18", "2018-19", "2019-20", "2020-21", "2021-22", "2022-23", "2023-24", "2024-25"
+        ],
+        "name": "Financial Year: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/nicoletan-1/FIT3179-DVII/refs/heads/main/js/aus_states.json",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_10m_admin_1_states_provinces"
+        }
+      },
+      "transform": [
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/nicoletan-1/FIT3179-DVII/refs/heads/main/data/table1_state_productivity.csv"
+            },
+            "key": "state",
+            "fields": ["tfp_index", "year"]
+          }
+        },
+        {
+          "filter": "datum.year == Year_Select"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#ffffff",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "color": {
+          "field": "tfp_index",
+          "type": "quantitative",
+          "title": "TFP Index (1977–78 = 100)",
+          "scale": {
+            "scheme": "ylgnbu",
+            "domain": [70, 300]
+          }
+        },
+        "tooltip": [
+          {"field": "properties.name", "type": "nominal", "title": "State/Territory"},
+          {"field": "year", "type": "nominal", "title": "Financial Year"},
+          {"field": "tfp_index", "type": "quantitative", "title": "Productivity Index", "format": ".1f"}
+        ]
+      }
+    }
+  ]
+}
