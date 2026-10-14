@@ -1,0 +1,385 @@
+state,year,tfp_index
+"New South Wales","1977-78",100.00
+"Victoria","1977-78",100.00
+"Queensland","1977-78",100.00
+"South Australia","1977-78",100.00
+"Western Australia","1977-78",100.00
+"Tasmania","1977-78",100.00
+"Northern Territory","1977-78",100.00
+"Australian Capital Territory","1977-78",100.00
+"New South Wales","1978-79",112.68
+"Victoria","1978-79",129.15
+"Queensland","1978-79",120.21
+"South Australia","1978-79",137.06
+"Western Australia","1978-79",115.86
+"Tasmania","1978-79",112.15
+"Northern Territory","1978-79",89.93
+"Australian Capital Territory","1978-79",112.68
+"New South Wales","1979-80",114.24
+"Victoria","1979-80",118.30
+"Queensland","1979-80",93.69
+"South Australia","1979-80",161.10
+"Western Australia","1979-80",113.62
+"Tasmania","1979-80",102.96
+"Northern Territory","1979-80",82.96
+"Australian Capital Territory","1979-80",114.24
+"New South Wales","1980-81",87.83
+"Victoria","1980-81",113.93
+"Queensland","1980-81",93.37
+"South Australia","1980-81",130.44
+"Western Australia","1980-81",104.49
+"Tasmania","1980-81",87.80
+"Northern Territory","1980-81",72.95
+"Australian Capital Territory","1980-81",87.83
+"New South Wales","1981-82",114.19
+"Victoria","1981-82",119.22
+"Queensland","1981-82",122.30
+"South Australia","1981-82",132.79
+"Western Australia","1981-82",114.55
+"Tasmania","1981-82",105.98
+"Northern Territory","1981-82",74.34
+"Australian Capital Territory","1981-82",114.19
+"New South Wales","1982-83",80.62
+"Victoria","1982-83",86.41
+"Queensland","1982-83",96.17
+"South Australia","1982-83",104.85
+"Western Australia","1982-83",136.18
+"Tasmania","1982-83",106.68
+"Northern Territory","1982-83",86.58
+"Australian Capital Territory","1982-83",80.62
+"New South Wales","1983-84",138.40
+"Victoria","1983-84",141.51
+"Queensland","1983-84",119.36
+"South Australia","1983-84",184.70
+"Western Australia","1983-84",118.44
+"Tasmania","1983-84",95.01
+"Northern Territory","1983-84",96.28
+"Australian Capital Territory","1983-84",138.40
+"New South Wales","1984-85",118.79
+"Victoria","1984-85",134.04
+"Queensland","1984-85",116.51
+"South Australia","1984-85",174.97
+"Western Australia","1984-85",161.86
+"Tasmania","1984-85",99.36
+"Northern Territory","1984-85",93.03
+"Australian Capital Territory","1984-85",118.79
+"New South Wales","1985-86",128.37
+"Victoria","1985-86",133.17
+"Queensland","1985-86",120.77
+"South Australia","1985-86",184.65
+"Western Australia","1985-86",135.13
+"Tasmania","1985-86",114.66
+"Northern Territory","1985-86",79.07
+"Australian Capital Territory","1985-86",128.37
+"New South Wales","1986-87",114.29
+"Victoria","1986-87",146.12
+"Queensland","1986-87",113.29
+"South Australia","1986-87",194.56
+"Western Australia","1986-87",144.56
+"Tasmania","1986-87",113.14
+"Northern Territory","1986-87",78.96
+"Australian Capital Territory","1986-87",114.29
+"New South Wales","1987-88",127.13
+"Victoria","1987-88",131.22
+"Queensland","1987-88",111.10
+"South Australia","1987-88",169.97
+"Western Australia","1987-88",133.55
+"Tasmania","1987-88",110.01
+"Northern Territory","1987-88",91.41
+"Australian Capital Territory","1987-88",127.13
+"New South Wales","1988-89",128.89
+"Victoria","1988-89",128.31
+"Queensland","1988-89",121.58
+"South Australia","1988-89",161.37
+"Western Australia","1988-89",151.67
+"Tasmania","1988-89",111.43
+"Northern Territory","1988-89",93.31
+"Australian Capital Territory","1988-89",128.89
+"New South Wales","1989-90",134.49
+"Victoria","1989-90",142.64
+"Queensland","1989-90",120.76
+"South Australia","1989-90",215.66
+"Western Australia","1989-90",159.89
+"Tasmania","1989-90",121.38
+"Northern Territory","1989-90",100.31
+"Australian Capital Territory","1989-90",134.49
+"New South Wales","1990-91",139.59
+"Victoria","1990-91",129.55
+"Queensland","1990-91",140.69
+"South Australia","1990-91",188.13
+"Western Australia","1990-91",167.46
+"Tasmania","1990-91",112.04
+"Northern Territory","1990-91",102.75
+"Australian Capital Territory","1990-91",139.59
+"New South Wales","1991-92",127.29
+"Victoria","1991-92",130.36
+"Queensland","1991-92",119.74
+"South Australia","1991-92",202.78
+"Western Australia","1991-92",165.75
+"Tasmania","1991-92",110.03
+"Northern Territory","1991-92",92.90
+"Australian Capital Territory","1991-92",127.29
+"New South Wales","1992-93",139.64
+"Victoria","1992-93",151.57
+"Queensland","1992-93",125.19
+"South Australia","1992-93",210.91
+"Western Australia","1992-93",187.86
+"Tasmania","1992-93",129.07
+"Northern Territory","1992-93",89.02
+"Australian Capital Territory","1992-93",139.64
+"New South Wales","1993-94",153.31
+"Victoria","1993-94",154.90
+"Queensland","1993-94",121.09
+"South Australia","1993-94",220.67
+"Western Australia","1993-94",205.66
+"Tasmania","1993-94",129.29
+"Northern Territory","1993-94",103.13
+"Australian Capital Territory","1993-94",153.31
+"New South Wales","1994-95",105.46
+"Victoria","1994-95",117.68
+"Queensland","1994-95",122.53
+"South Australia","1994-95",160.07
+"Western Australia","1994-95",177.61
+"Tasmania","1994-95",116.05
+"Northern Territory","1994-95",137.38
+"Australian Capital Territory","1994-95",105.46
+"New South Wales","1995-96",140.03
+"Victoria","1995-96",172.05
+"Queensland","1995-96",130.54
+"South Australia","1995-96",227.18
+"Western Australia","1995-96",201.90
+"Tasmania","1995-96",127.39
+"Northern Territory","1995-96",144.44
+"Australian Capital Territory","1995-96",140.03
+"New South Wales","1996-97",154.91
+"Victoria","1996-97",169.27
+"Queensland","1996-97",165.09
+"South Australia","1996-97",199.97
+"Western Australia","1996-97",201.13
+"Tasmania","1996-97",132.44
+"Northern Territory","1996-97",171.32
+"Australian Capital Territory","1996-97",154.91
+"New South Wales","1997-98",148.35
+"Victoria","1997-98",134.94
+"Queensland","1997-98",148.63
+"South Australia","1997-98",223.85
+"Western Australia","1997-98",193.78
+"Tasmania","1997-98",111.90
+"Northern Territory","1997-98",162.95
+"Australian Capital Territory","1997-98",148.35
+"New South Wales","1998-99",158.35
+"Victoria","1998-99",150.14
+"Queensland","1998-99",157.37
+"South Australia","1998-99",226.12
+"Western Australia","1998-99",201.09
+"Tasmania","1998-99",115.55
+"Northern Territory","1998-99",131.97
+"Australian Capital Territory","1998-99",158.35
+"New South Wales","1999-2000",165.60
+"Victoria","1999-2000",173.62
+"Queensland","1999-2000",154.93
+"South Australia","1999-2000",205.67
+"Western Australia","1999-2000",221.35
+"Tasmania","1999-2000",122.04
+"Northern Territory","1999-2000",123.25
+"Australian Capital Territory","1999-2000",165.60
+"New South Wales","2000-01",159.49
+"Victoria","2000-01",185.95
+"Queensland","2000-01",143.66
+"South Australia","2000-01",254.58
+"Western Australia","2000-01",155.00
+"Tasmania","2000-01",104.32
+"Northern Territory","2000-01",138.65
+"Australian Capital Territory","2000-01",159.49
+"New South Wales","2001-02",155.35
+"Victoria","2001-02",172.63
+"Queensland","2001-02",130.39
+"South Australia","2001-02",277.42
+"Western Australia","2001-02",203.84
+"Tasmania","2001-02",117.97
+"Northern Territory","2001-02",145.59
+"Australian Capital Territory","2001-02",155.35
+"New South Wales","2002-03",97.95
+"Victoria","2002-03",116.89
+"Queensland","2002-03",109.02
+"South Australia","2002-03",187.18
+"Western Australia","2002-03",144.38
+"Tasmania","2002-03",120.72
+"Northern Territory","2002-03",158.86
+"Australian Capital Territory","2002-03",97.95
+"New South Wales","2003-04",131.02
+"Victoria","2003-04",170.70
+"Queensland","2003-04",128.64
+"South Australia","2003-04",245.05
+"Western Australia","2003-04",225.11
+"Tasmania","2003-04",119.21
+"Northern Territory","2003-04",127.28
+"Australian Capital Territory","2003-04",131.02
+"New South Wales","2004-05",144.95
+"Victoria","2004-05",156.52
+"Queensland","2004-05",135.37
+"South Australia","2004-05",197.95
+"Western Australia","2004-05",201.98
+"Tasmania","2004-05",134.68
+"Northern Territory","2004-05",137.82
+"Australian Capital Territory","2004-05",144.95
+"New South Wales","2005-06",151.38
+"Victoria","2005-06",183.81
+"Queensland","2005-06",131.22
+"South Australia","2005-06",233.92
+"Western Australia","2005-06",236.59
+"Tasmania","2005-06",132.22
+"Northern Territory","2005-06",150.68
+"Australian Capital Territory","2005-06",151.38
+"New South Wales","2006-07",110.57
+"Victoria","2006-07",130.58
+"Queensland","2006-07",141.18
+"South Australia","2006-07",164.65
+"Western Australia","2006-07",167.40
+"Tasmania","2006-07",122.59
+"Northern Territory","2006-07",174.19
+"Australian Capital Territory","2006-07",110.57
+"New South Wales","2007-08",106.67
+"Victoria","2007-08",160.23
+"Queensland","2007-08",153.04
+"South Australia","2007-08",194.60
+"Western Australia","2007-08",190.20
+"Tasmania","2007-08",109.28
+"Northern Territory","2007-08",182.97
+"Australian Capital Territory","2007-08",106.67
+"New South Wales","2008-09",145.77
+"Victoria","2008-09",142.33
+"Queensland","2008-09",154.14
+"South Australia","2008-09",190.19
+"Western Australia","2008-09",249.48
+"Tasmania","2008-09",110.58
+"Northern Territory","2008-09",139.68
+"Australian Capital Territory","2008-09",145.77
+"New South Wales","2009-10",130.37
+"Victoria","2009-10",174.29
+"Queensland","2009-10",144.34
+"South Australia","2009-10",259.27
+"Western Australia","2009-10",214.81
+"Tasmania","2009-10",121.25
+"Northern Territory","2009-10",165.22
+"Australian Capital Territory","2009-10",130.37
+"New South Wales","2010-11",180.10
+"Victoria","2010-11",194.91
+"Queensland","2010-11",151.25
+"South Australia","2010-11",269.42
+"Western Australia","2010-11",154.56
+"Tasmania","2010-11",126.37
+"Northern Territory","2010-11",159.50
+"Australian Capital Territory","2010-11",180.10
+"New South Wales","2011-12",160.26
+"Victoria","2011-12",195.00
+"Queensland","2011-12",163.89
+"South Australia","2011-12",269.17
+"Western Australia","2011-12",239.32
+"Tasmania","2011-12",138.06
+"Northern Territory","2011-12",149.20
+"Australian Capital Territory","2011-12",160.26
+"New South Wales","2012-13",172.31
+"Victoria","2012-13",187.18
+"Queensland","2012-13",155.00
+"South Australia","2012-13",236.94
+"Western Australia","2012-13",191.30
+"Tasmania","2012-13",127.62
+"Northern Territory","2012-13",178.65
+"Australian Capital Territory","2012-13",172.31
+"New South Wales","2013-14",166.38
+"Victoria","2013-14",186.56
+"Queensland","2013-14",127.37
+"South Australia","2013-14",256.15
+"Western Australia","2013-14",253.96
+"Tasmania","2013-14",125.16
+"Northern Territory","2013-14",177.22
+"Australian Capital Territory","2013-14",166.38
+"New South Wales","2014-15",160.31
+"Victoria","2014-15",158.55
+"Queensland","2014-15",120.85
+"South Australia","2014-15",241.11
+"Western Australia","2014-15",206.77
+"Tasmania","2014-15",123.91
+"Northern Territory","2014-15",146.59
+"Australian Capital Territory","2014-15",160.31
+"New South Wales","2015-16",166.34
+"Victoria","2015-16",147.69
+"Queensland","2015-16",137.63
+"South Australia","2015-16",248.24
+"Western Australia","2015-16",213.18
+"Tasmania","2015-16",106.59
+"Northern Territory","2015-16",149.40
+"Australian Capital Territory","2015-16",166.34
+"New South Wales","2016-17",182.33
+"Victoria","2016-17",214.01
+"Queensland","2016-17",145.91
+"South Australia","2016-17",297.20
+"Western Australia","2016-17",230.11
+"Tasmania","2016-17",108.11
+"Northern Territory","2016-17",147.79
+"Australian Capital Territory","2016-17",182.33
+"New South Wales","2017-18",145.59
+"Victoria","2017-18",188.49
+"Queensland","2017-18",139.74
+"South Australia","2017-18",248.78
+"Western Australia","2017-18",217.00
+"Tasmania","2017-18",118.88
+"Northern Territory","2017-18",161.88
+"Australian Capital Territory","2017-18",145.59
+"New South Wales","2018-19",103.23
+"Victoria","2018-19",154.33
+"Queensland","2018-19",123.75
+"South Australia","2018-19",222.62
+"Western Australia","2018-19",228.98
+"Tasmania","2018-19",127.57
+"Northern Territory","2018-19",137.30
+"Australian Capital Territory","2018-19",103.23
+"New South Wales","2019-20",90.72
+"Victoria","2019-20",184.98
+"Queensland","2019-20",115.02
+"South Australia","2019-20",188.63
+"Western Australia","2019-20",162.87
+"Tasmania","2019-20",110.09
+"Northern Territory","2019-20",125.53
+"Australian Capital Territory","2019-20",90.72
+"New South Wales","2020-21",166.19
+"Victoria","2020-21",200.55
+"Queensland","2020-21",134.28
+"South Australia","2020-21",217.76
+"Western Australia","2020-21",204.48
+"Tasmania","2020-21",128.39
+"Northern Territory","2020-21",128.60
+"Australian Capital Territory","2020-21",166.19
+"New South Wales","2021-22",180.33
+"Victoria","2021-22",203.12
+"Queensland","2021-22",150.31
+"South Australia","2021-22",207.45
+"Western Australia","2021-22",265.23
+"Tasmania","2021-22",117.84
+"Northern Territory","2021-22",141.35
+"Australian Capital Territory","2021-22",180.33
+"New South Wales","2022-23",156.03
+"Victoria","2022-23",202.00
+"Queensland","2022-23",159.06
+"South Australia","2022-23",255.82
+"Western Australia","2022-23",264.96
+"Tasmania","2022-23",120.60
+"Northern Territory","2022-23",138.03
+"Australian Capital Territory","2022-23",156.03
+"New South Wales","2023-24",140.85
+"Victoria","2023-24",209.34
+"Queensland","2023-24",156.90
+"South Australia","2023-24",255.28
+"Western Australia","2023-24",184.67
+"Tasmania","2023-24",128.59
+"Northern Territory","2023-24",148.11
+"Australian Capital Territory","2023-24",140.85
+"New South Wales","2024-25",174.42
+"Victoria","2024-25",176.69
+"Queensland","2024-25",173.58
+"South Australia","2024-25",189.95
+"Western Australia","2024-25",237.12
+"Tasmania","2024-25",118.93
+"Northern Territory","2024-25",163.88
+"Australian Capital Territory","2024-25",174.42
